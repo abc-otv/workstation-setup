@@ -16,6 +16,10 @@ echo
 brew cask install dash
 brew cask install postman
 brew cask install quicklook-json
+brew install shellcheck
+brew install graphviz
+brew install circlecli
+brew install awsebcli
 
 # Terminals
 

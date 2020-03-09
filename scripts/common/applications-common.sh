@@ -20,6 +20,7 @@ brew install shellcheck
 brew install graphviz
 brew install circlecli
 brew install awsebcli
+curl https://krypt.co/kr | sh
 
 # Terminals
 

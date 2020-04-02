@@ -4,6 +4,7 @@ set +e
 # Docker
 brew cask install docker
 echo "To get docker command-line tools, run the docker application"
+open /Applications/Docker.app
 
 # Docker Bash Completion
 # Reference https://docs.docker.com/docker-for-mac/
